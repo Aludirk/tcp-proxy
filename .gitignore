@@ -1,2 +1,7 @@
 # vim
 *.sw?
+
+# setuptools
+*.egg-info/
+build/
+dist/
